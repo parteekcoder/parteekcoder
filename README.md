@@ -1,5 +1,5 @@
 ![logo](https://github.com/parteekcoder/parteekcoder/blob/main/CreateRemote%20Cover.svg)
-<h1 align="center">Life is about issues, living it is Creating Pull Requests</h1>
+<h1 align="center">Life is about issues, living it is Creating PR</h1>
 <h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parteekcoder&label=Profile%20views&color=0e75b6&style=flat" alt="parteekcoder" /> </p>
