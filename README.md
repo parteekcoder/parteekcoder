@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parteekgoyal118@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1gZ7xq-C8d3blLSsPR4wtkedtrt1glaxc/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1IjhPNWYpt1ONaD75gBWID6eZWszfo82r/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
